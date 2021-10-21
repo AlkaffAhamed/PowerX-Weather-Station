@@ -59,5 +59,5 @@ Following concepts have been applied:
 
 ### Netlify Deployment Link
 
-
+[https://powerx-weather-station.netlify.app/](https://powerx-weather-station.netlify.app/)
 
